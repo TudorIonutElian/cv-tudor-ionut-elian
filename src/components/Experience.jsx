@@ -1,9 +1,9 @@
 
 function Experience() {
     return (
-      <div className="App">
-        <Header />
-      </div>
+        <div className="Experience">
+            This is Experience Component
+        </div>
     );
   }
   

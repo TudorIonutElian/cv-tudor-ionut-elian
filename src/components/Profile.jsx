@@ -1,8 +1,8 @@
 
 function Profile() {
     return (
-      <div className="App">
-        <Header />
+      <div className="Profile">
+        This is Profile Component
       </div>
     );
   }

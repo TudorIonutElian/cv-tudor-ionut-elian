@@ -1,8 +1,8 @@
 
 function Header() {
     return (
-      <div className="App">
-        <Header />
+      <div className="Header">
+        This is Header Component
       </div>
     );
   }

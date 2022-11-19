@@ -1,8 +1,8 @@
 
 function Education() {
     return (
-      <div className="App">
-        <Header />
+      <div className="Education">
+        This is Education Component
       </div>
     );
   }
