@@ -1,8 +1,12 @@
+import Navbar from "./Navbar";
+import Hero from "./Hero";
 
 function Header() {
     return (
       <div className="Header">
-        This is Header Component
+        <Navbar />
+        <Hero />
+        This is the rest of header component
       </div>
     );
   }
